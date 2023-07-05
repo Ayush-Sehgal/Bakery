@@ -1,5 +1,8 @@
 # Bakery
 After cloning the repository in the code editor, type the following commands in the terminal to run the server:
+
+
+
 cd Bakery
 python manage.py makemigrations
 python manage.py migrate
